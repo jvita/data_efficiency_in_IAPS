@@ -2,8 +2,7 @@
 
 This repository contains the data necessary to reproduce the following paper:
 
-J. Vita and D. Schwalbe-Koda. [Data efficiency and extrapolation trends in neural network interatomic potentials](https://arxiv.org/abs/2302.05823). arXiv:2302.05823 (2023).
-
+J. Vita and D. Schwalbe-Koda, "[Data efficiency and extrapolation trends in neural network interatomic potentials](https://doi.org/10.1088/2632-2153/acf115)", _2023 Mach. Learn.: Sci. Technol_.
 
 ## Release
 
